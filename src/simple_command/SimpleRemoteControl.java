@@ -2,6 +2,7 @@ package simple_command;
 
 
 public class SimpleRemoteControl {
+
     Command slot;
 
     public SimpleRemoteControl() {}
